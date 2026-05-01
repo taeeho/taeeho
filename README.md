@@ -1,7 +1,11 @@
- ### 안녕하세요, 하태호입니다 👋
+ ### 문제를 정의하고, 직접 만드는 개발자
 
-  자동화와 백엔드 시스템을 만드는 개발자입니다.
-  금융 자동매매, AI 기반 자동화 파이프라인, 데이터 처리에 관심이 많습니다.
+  기획과 개발 사이의 거리를 좁히는 일에 가장 큰 흥미를 느낍니다.
+  "무엇을 만들지" 정의하는 단계부터 "어떻게 동작하게 할지" 구현하는 단계까지
+  하나의 흐름으로 풀어내는 것을 좋아합니다.
+
+  요즘은 **반복되는 업무를 시스템으로 대체하는 자동화**와
+  **금융 데이터 기반의 의사결정 시스템**을 만들며 실력을 다지고 있습니다.
 
   📍 Seoul, South Korea
   📫 htaeho925@gmail.com
@@ -11,12 +15,15 @@
   #### 🛠 기술 스택
 
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
+  ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-  ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white)
+  ![Podman](https://img.shields.io/badge/-Podman-892CA0?logo=podman&logoColor=white)
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonwebservices&logoColor=white)
 
   ---
 
