@@ -51,7 +51,9 @@
 
   #### 👥 팀 프로젝트
 
-  ##### [프로젝트명 1](https://github.com/팀원ID/레포명)
+  ##### [STEAHC]
+  ##### [백엔드](https://github.com/kanell0304/IBMxRedHat4_Final_Project_Backend)
+  ##### [프론트엔드](https://github.com/kanell0304/IBMxRedHat4_Final_Project_Frontend)
   - **역할**: 백엔드 API 설계 / 데이터 파이프라인 등 본인 담당 부분
   - **기여**: 구체적 작업 1~2줄
   - **스택**: 사용 기술
@@ -62,8 +64,3 @@
   - **스택**: 사용 기술
 
   ---
-
-  #### 📊 GitHub Stats
-
-  ![Stats](https://github-readme-stats.vercel.app/api?username=taeeho&show_icons=true&hide_border=true&locale=ko)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeeho&layout=compact&hide_border=true)
